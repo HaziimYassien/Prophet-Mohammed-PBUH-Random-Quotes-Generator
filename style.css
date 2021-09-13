@@ -1,0 +1,12 @@
+body{
+    background-color: #264653;
+}
+
+p{
+    color: #e9c46a;
+}
+
+p::selection {
+    color: #e76f51;
+    background-color: #f4a261;
+}
